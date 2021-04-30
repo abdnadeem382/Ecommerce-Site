@@ -1,0 +1,13 @@
+{
+    "name": "Sandisk",
+    "price": 100,
+    "description": "Fast Memmory Card",
+    "ratings": 4.5,
+    "images": [],
+    "category":"Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+
+}
